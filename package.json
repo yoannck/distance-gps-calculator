@@ -1,0 +1,20 @@
+{
+  "name": "polymathee",
+  "version": "0.1.1",
+  "description": "Module/Helper",
+  "author": "Yoann Chane Kive <yoannck@gmail.com> (http://yoannck.com)",
+  "main": "helper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yoannck/polymathee.git"
+  },
+  "keywords": [
+    "helper",
+    "calcul",
+  ],
+  "license": "MIT",
+  "dependencies": {}
+}
